@@ -1,9 +1,27 @@
-body {
-  background-color: powderblue;
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
 }
-h1 {
-  color: blue;
+body{
+    background-image:url('img/aaaaa.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
-p {
-  color: red;
+ul{
+    list-style-type: none;
+    font-size:30px;
+    font-family:sans-serif;
+    padding:0;
+}
+h1{
+    color:tomato;
+}
+table{
+	color:Black;
+	font-size:30px;
+	border-collapse: collapse;
+}
+td{
+    text-align: center;
 }
