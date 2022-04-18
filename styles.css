@@ -25,3 +25,15 @@ table{
 td{
     text-align: center;
 }
+a:link {
+  color: darkorange;
+}
+a:visited {
+  color: darkorange;
+}
+a:hover {
+  color: coral;
+}
+a:active {
+  color: yellow;
+}
