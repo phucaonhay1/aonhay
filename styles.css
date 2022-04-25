@@ -23,6 +23,7 @@ table{
 	border-collapse: collapse;
 }
 td{
+	font-size:30px;
     text-align: center;
 }
 a:link {
