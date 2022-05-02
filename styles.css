@@ -38,4 +38,14 @@ a:hover {
 a:active {
   color: yellow;
 }
-
+.button{
+transition-duration: 0.4s;
+background-color:white;
+border:2px solid darkorange;
+color:black;
+}
+.button:hover{
+background-color:coral;
+color:white;
+	
+}
