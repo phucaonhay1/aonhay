@@ -45,6 +45,8 @@ border:2px solid darkorange;
 color:black;
 	font-size:30px;
 border-radius:10px;
+	padding:10px;
+	margin:5px;
 }
 .button:hover{
 background-color:coral;
